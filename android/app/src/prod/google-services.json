@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102352994123",
+    "firebase_url": "https://takein2019.firebaseio.com",
+    "project_id": "takein2019",
+    "storage_bucket": "takein2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102352994123:android:633e1efd079ab33e",
+        "android_client_info": {
+          "package_name": "fod.takein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102352994123-jpja876fb8ru6r19uduftv3158onhdbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fod.takein",
+            "certificate_hash": "63321d3ffa4f9faca9a45bc0b6ce059f4902aa22"
+          }
+        },
+        {
+          "client_id": "102352994123-bbgo7b3bg06rrfumv6qer7h7srhjs24c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE3vPdVuaIzjj1PQpyoXn8pFUpj0oaaWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102352994123-bbgo7b3bg06rrfumv6qer7h7srhjs24c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102352994123-607loofsc5aoaiiqh7gugbaokspj5cp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fod.takein"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

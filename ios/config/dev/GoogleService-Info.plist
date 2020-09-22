@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887180706519-jo3h7m1ftpmjqopiu4j4arud4qv7uliq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887180706519-jo3h7m1ftpmjqopiu4j4arud4qv7uliq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>887180706519-95kpusfjv4io7bleip7po1of32los0ft.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOlLMivuQ8h0tbThLBoYqgTfoqm4Ze9Pc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887180706519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>live.fod.takein</string>
+	<key>PROJECT_ID</key>
+	<string>takein-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>takein-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887180706519:ios:8f8b5c6805e98561f5a692</string>
+	<key>DATABASE_URL</key>
+	<string>https://takein-dev.firebaseio.com</string>
+</dict>
+</plist>

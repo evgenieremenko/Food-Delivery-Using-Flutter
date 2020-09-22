@@ -1,0 +1,1 @@
+enum ErrorType { CHECKOUT, ADD_CC, ADD_TO_CART, OTHER, UNDEFINED }
